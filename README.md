@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Ryan Schneider
+I am a Computer Science student @ UIC
+
+Here you’ll find projects some from my coursework and personal learning!
+
+🎯 Interested in software development and building real-world projects
+🌱 I’m currently learning C# and SQL
+
 <!--
 **2point3ryno/2point3ryno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
